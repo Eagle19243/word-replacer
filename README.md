@@ -2,7 +2,7 @@
 
 ## Environment
 - Xcode 9.4+
-- Mac OS X 10.13+
+- Mac OS X 10.15+
 - Safari 11.1+
 
 ## Instruction to build/run App and Safari App Extension in Xcode
